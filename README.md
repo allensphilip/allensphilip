@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Allen S Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=allensphilip&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="Allen S Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=allensphilip&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
