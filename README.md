@@ -30,6 +30,7 @@
     <a href="https://www.debian.org/"><img src="https://img.icons8.com/color/48/000000/debian.png"/>
     <a href="https://www.kali.org/"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
     <img src="https://img.icons8.com/color/48/000000/console.png"/>
+    <a href="https://www.parrotsec.org/"> <img width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png?20191030192001"/>
     <h1 class="menu-title"></h1>
     </br>
 </p>
