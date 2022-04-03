@@ -42,20 +42,12 @@
 <a href="https://discord.gg/allensphilip#7560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="allensphilip#7560" height="30" width="40" /></a>
 </p>
 <br>
-
-
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=allensphilip&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>  
+</p>
 
 ## 📊 My Github Stats
-<p>
-</p>
-
-<p align="center">
-   
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=allensphilip&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    
-</p>
-
-
+        
   <br/>
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=allensphilip&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allensphilip&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
