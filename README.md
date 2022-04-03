@@ -67,8 +67,8 @@
 <br/>
 <br/>
 
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/allensphilip"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="allensphilip" /></a></p><br><br> -->
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/allensphilip"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" height="150" width="400" alt="allensphilip" /></a></p><br><br>
 
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
