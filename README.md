@@ -35,7 +35,6 @@
 </p>
 
 ## Connect with me:
-<h1 class="menu-title"></h1>
 <p align="left">
 <a href="https://linkedin.com/in/allensphilip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allensphilip" height="30" width="40" /></a>
 <a href="https://instagram.com/allensphilip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="allensphilip" height="30" width="40" /></a>
@@ -46,7 +45,6 @@
 
 
 ## 📊 My Github Stats
-<h1 class="menu-title"></h1>
 <p>
 </p>
 
