@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Allen S Philip</h1>
 <h3 align="center">I'm a passionate Developer.</h3>
 
-<img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
-
 ## 🙋‍♂️ About Me
+
+<img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 
 - 🔭 I’m currently doing my Master's Degree in Computer Application at Amal Jyothi College of Engineering, Kanjirapally.
 
