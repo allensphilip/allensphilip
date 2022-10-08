@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing my Master's Degree in Computer Application at Amal Jyothi College of Engineering, Kanjirapally.
 
-- 🌱 I’m currently learning ****React ****
+- 🌱 I’m currently learning ****React, Python Fullstack****
 
 - 💬 Ask me about ****Linux****
 
