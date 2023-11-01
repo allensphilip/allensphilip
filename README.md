@@ -5,7 +5,7 @@
 
 <img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 
-- 🔭 Master of Cumputer Applications(MCA).
+- 🔭 Master of Computer Applications(MCA).
 
 - 🌱 I’m currently learning ****React, Python Fullstack****
 
