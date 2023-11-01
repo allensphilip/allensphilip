@@ -5,7 +5,7 @@
 
 <img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 
-- 🔭 I’m currently doing my Master's Degree in Computer Application at Amal Jyothi College of Engineering, Kanjirapally.
+- 🔭 Master of Cumputer Applications(MCA).
 
 - 🌱 I’m currently learning ****React, Python Fullstack****
 
