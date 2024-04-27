@@ -47,13 +47,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=allensphilip&theme=dark&ring=91FF7E&background=45%2C000000%2C144512&border=000000&stroke=54EB80&fire=38EB3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)  
 
-## 📊 My Github Stats
+***## 📊 My Github Stats
         
   <br/>
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=allensphilip&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allensphilip&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***
 
 
 <br/>
