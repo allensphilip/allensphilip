@@ -44,6 +44,7 @@
 <a href="https://discord.gg/allensphilip#7560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="allensphilip#7560" height="30" width="40" /></a>
 </p>
 <br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=allensphilip&theme=dark&ring=91FF7E&background=45%2C000000%2C144512&border=000000&stroke=54EB80&fire=38EB3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)  
 
 ## 📊 My Github Stats
