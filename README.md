@@ -47,16 +47,16 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=allensphilip&theme=dark&ring=91FF7E&background=45%2C000000%2C144512&border=000000&stroke=54EB80&fire=38EB3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)  
 
-***## 📊 My Github Stats
+[comment]:***## 📊 My Github Stats
         
-  <br/>
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=allensphilip&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allensphilip&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***
+ [comment]: <br/>
+  [comment]:  <img alt="" [comment]:src="https://[comment]:github-readme-stats.vercel.app/api?[comment]:username=allensphilip&show_icons=true&count_private=t[comment]:rue&theme=react&hide_border=true&bg_color=0D1117" />
+[comment]:  <img alt="" [comment]:src="https://[comment]:github-readme-stats.vercel.app/api/top-langs/?[comment]:username=allensphilip&langs_count=8&count_private=tru[comment]:e&layout=compact&theme=react&hide_border=true&bg_colo[comment]:r=0D1117" /></a>
+[comment]:  <br/>
+[comment]:  <b>Note:</b> Top languages is only a metric of the [comment]:languages my public code consists of and doesn't [comment]:reflect experience or skill level.***
 
 
-<br/>
+[comment]:<br/>
 <br/>
 
 <img alt="Allen S Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=allensphilip&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
