@@ -51,7 +51,7 @@
 <br/>
 
 
-[![Allen's Github stats](https://github-readme-stats.vercel.app/api?username= allensphilip)]<br/>
+[![Allen's Github stats](https://github-readme-stats.vercel.app/api?username=allensphilip)]<br/>
 <br/>
 
 <h3 align="left">Support:</h3>
