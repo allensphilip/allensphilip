@@ -49,7 +49,7 @@
 
 
 <br/>
-
+![](https://komarev.com/ghpvc/?username=allensphilip)<br>
 <img alt="Allen S Philip's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=allensphilip&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
