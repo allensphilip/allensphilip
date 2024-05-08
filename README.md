@@ -30,7 +30,7 @@
     <a href="https://www.debian.org/"><img src="https://img.icons8.com/color/48/000000/debian.png"/>
     <a href="https://www.kali.org/"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
     <img src="https://img.icons8.com/color/48/000000/console.png"/>
-    <a href="https://www.parrotsec.org/"> <img width="46px" height="46px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png?20191030192001"/>
+    <a href="https://www.parrotsec.org/"> <g id="g7"><circle cx="50" cy="50" r="50" style="-webkit-animation:circle 5s alternate;animation:circle 5s alternate" stroke-width="0.571" stroke-dasharray="100" fill="#15e0ed" stroke="#15e0ed" stroke-miterlimit="10"></circle><path id="polygon7" transform="scale(.57143)" style="animation-duration:5s;animation-name:animate-fade;animation-delay:5s;animation-fill-mode:backwards" fill="url(#shadow)" d="M162 41.6l2.4 4.2 1.8 3.5 2 4.4 1.7 4.4 1.6 4.7 1.4 5.8 1.1 5.3.5 4.5.5 5.3v6.2l-.3 4.4-.6 5.7-.7 4.4-1.5 6.2-1.9 6.1-1.5 4.1-1.8 3.9-1.8 3.6-2.2 3.9-2.4 3.9-3.5 4.9-2.4 2.9-4 4.4-4.2 4.1-5.1 4.3-5.3 3.7-3 2-4.5 2.5-6.6 3.3-5.1-5.8-36-40.3-26-60.8 6-29.6L141.9 19l4.9 4.2 2.6 2.4 4 4.4 2.9 3.5 3 4z"></path><g id="g289" transform="scale(.57143)"><path d="M80.6 122.1l36 40.3-12-25.2 11.2 11.7L79.3 83 95 63.4l58.7-24.3L95 40.4l38.2-20.1-72.6 11.4-6 29.6-29.3 1.9-5.1 25.1 14.7-12" style="-webkit-animation:bird 7s alternate;animation:bird 7s alternate" stroke-dasharray="100" stroke="#000" stroke-miterlimit="10" id="g287"></path></g></g>
     <h1 class="menu-title"></h1>
     </br>
 </p>
