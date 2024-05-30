@@ -30,9 +30,7 @@
     <a href="https://www.debian.org/"><img src="https://img.icons8.com/color/48/000000/debian.png"/>
     <a href="https://www.kali.org/"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
     <img src="https://img.icons8.com/color/48/000000/console.png"/>
-    
-    <h1 class="menu-title"></h1>
-    </br>
+
 </p>
 
 [![@allensphilip's Holopin board](https://holopin.me/allensphilip)](https://holopin.io/@allensphilip)
