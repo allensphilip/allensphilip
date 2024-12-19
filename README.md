@@ -43,8 +43,9 @@
 </p>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=allensphilip&theme=dark&ring=91FF7E&background=45%2C000000%2C144512&border=000000&stroke=54EB80&fire=38EB3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)  
-
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=allensphilip&theme=dark&ring=91FF7E&background=45%2C000000%2C144512&border=000000&stroke=54EB80&fire=38EB3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)  
+-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=allensphilip&theme=github-dark)](https://git.io/streak-stats)
 
 <br/>
 
