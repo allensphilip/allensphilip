@@ -48,7 +48,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=allensphilip)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=allensphilip&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=600&fire=00EB1F&background=45%2C000000%2C000000&ring=00EBE4&currStreakLabel=00EBDB)](https://git.io/streak-stats)
 <!--[![Allen's Github stats](https://github-readme-stats.vercel.app/api?username=allensphilip)]<br/>-->
 <br/>
 
