@@ -58,8 +58,8 @@
 <p><a href="https://www.buymeacoffee.com/allensphilip"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="100" width="375" alt="allensphilip" /></a></p><br><br>
 
 ## ❤ Views and Followers
-<!--<a href="https://github.com/allenphilip/github-profile-views-counter"> -->
+<!--<a href="https://github.com/allenphilip/github-profile-views-counter"> 
 
-![](https://komarev.com/ghpvc/?username=allensphilip)
+![](https://komarev.com/ghpvc/?username=allensphilip)-->
 
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/allensphilip?label=Followers&style=social" alt="GitHub Badge"></a> 
