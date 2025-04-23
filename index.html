@@ -1,6 +1,699 @@
-<html>
-  <head></head>
-  <body>
-    <h1>Just a test</h1>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Allen S Philip | CTO | IT Educator | Software Developer</title>
+    <!-- Bootstrap 5.2 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <!-- AOS Animation Library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Theme Toggle -->
+    <div class="theme-toggle">
+        <button id="theme-toggle-btn" class="btn btn-sm" data-tooltip="Toggle light/dark mode" aria-label="Toggle theme">
+            <i class="fas fa-moon"></i>
+        </button>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">ASP<span class="text-primary">.</span></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#experience">Experience</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#education">Education</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#achievements">Achievements</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#skills">Skills</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#certifications">Certifications</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero-section bg-gradient">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-lg-6" data-aos="fade-right">
+                    <h5 class="text-primary mb-3">Hello, I'm</h5>
+                    <h1 class="display-4 fw-bold mb-4 text-dark">Allen S Philip</h1>
+                    <div class="mb-4 position-relative">
+                        <h2 class="typed-text"></h2>
+                        <div class="typed-cursor"></div>
+                    </div>
+                    <p class="lead text-dark mb-4">From Kerala, India</p>
+                    <div class="social-icons mb-4">
+                        <a href="https://linkedin.com/in/allensphilip" target="_blank" class="me-3"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://github.com/allensphilip" target="_blank" class="me-3"><i class="fab fa-github"></i></a>
+                        <a href="mailto:allensphilip@gmail.com" class="me-3"><i class="fas fa-envelope"></i></a>
+                        <a href="tel:+919745363171" class="me-3"><i class="fas fa-phone"></i></a>
+                    </div>
+                    <div class="d-flex">
+                        <a href="#contact" class="btn btn-primary me-3">Contact Me</a>
+                        <a href="#" class="btn btn-outline-primary">Download CV</a>
+                    </div>
+                </div>
+                <div class="col-lg-6 text-center" data-aos="fade-left">
+                    <div class=" about-image">
+                        <!--<div class="tech-square"></div>-->
+                        <img src="img/p1.jpg" alt="Allen S Philip" class="pt-5 m-5 img-fluid rounded-square" width="500" height="500">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="hero-shape">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+                <path fill="var(--bs-light)" fill-opacity="1" d="M0,288L48,272C96,256,192,224,288,197.3C384,171,480,149,576,165.3C672,181,768,235,864,250.7C960,267,1056,245,1152,224C1248,203,1344,181,1392,170.7L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+            </svg>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section-padding">
+        <div class="container">
+            <div class="row justify-content-center mb-5">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-title">About Me</h2>
+                    <div class="section-divider"></div>
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-5 mb-4 mb-lg-0" data-aos="fade-right">
+                    <div class="about-image">
+                    <!-- 600x800 -->
+                        <img src="img/g2.jpg" alt="Allen S Philip" class="img-fluid">
+                        <div class="experience-badge">
+                            <span class="number">6+</span>
+                            <span class="text">Years of Experience</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-7" data-aos="fade-left">
+                    <div class="about-content">
+                        <h3 class="mb-4">Professional Summary</h3>
+                        <p class="lead">Experienced IT professional with 2.5+ years in tech education and academic leadership, and 4+ years in software development and the IT industry.</p>
+                        <p>Currently serving as CTO at an EdTech startup, driving cloud-native solutions and educational innovation. Proficient in Django, IoT, AI/ML, LLMs, and cloud platforms including AWS and Azure.</p>
+                        <p>Founder of the "NexGen" Future Ready IT Club, established in collaboration with global tech leaders like Microsoft GitHub, Amazon AWS, Raspberry Pi Foundation, and Major League Hacking. Successfully trained 2000+ students, and organized international and national-level tech competitions, hackathons, and workshops focused on emerging technologies and experiential learning.</p>
+                        <div class="row mt-4">
+                            <div class="col-md-6 mb-3">
+                                <div class="info-item">
+                                    <i class="fas fa-envelope"></i>
+                                    <span>allensphilip@gmail.com</span>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <div class="info-item">
+                                    <i class="fas fa-phone"></i>
+                                    <span>+91 9745363171</span>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <div class="info-item">
+                                    <i class="fas fa-map-marker-alt"></i>
+                                    <span>Kerala, India</span>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <div class="info-item">
+                                    <i class="fas fa-globe"></i>
+                                    <span>allensphilip.github.io</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="section-padding bg-light">
+        <div class="container">
+            <div class="row justify-content-center mb-5">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-title">Work Experience</h2>
+                    <div class="section-divider"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="timeline">
+                        <!-- CTO Experience -->
+                        <div class="timeline-item" data-aos="fade-up">
+                            <div class="timeline-dot"></div>
+                            <div class="timeline-date">Apr 2024 - Present</div>
+                            <div class="timeline-content">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Chief Technology Officer (CTO)</h4>
+                                        <h5 class="card-subtitle mb-3">Quality Schools | Aspiring EdTech Startup</h5>
+                                        <ul class="card-text">
+                                            <li>Spearheading the design and development of cutting-edge educational platforms using Python Django, LLMs, and cloud-native solutions.</li>
+                                            <li>Architected scalable infrastructure. Reducing downtime, improving user experience by 45%.</li>
+                                            <li>Integrated AI/ML tools to personalize learning and automate administrative processes, increasing student engagement by 60%.</li>
+                                            <li>Led a cross-functional team of developers, designers, and educators, ensuring agile delivery of MVPs and new feature rollouts.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- IT & Robotics Trainer Experience -->
+                        <div class="timeline-item" data-aos="fade-up" data-aos-delay="100">
+                            <div class="timeline-dot"></div>
+                            <div class="timeline-date">Sep 2023 - Present</div>
+                            <div class="timeline-content">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h4 class="card-title">IT & Robotics Trainer | NexGen – Future Ready IT Club Lead</h4>
+                                        <h5 class="card-subtitle mb-3">NEIIL World School, Morena, M.P.</h5>
+                                        <ul class="card-text">
+                                            <li>Designed and implemented robotics and IT curriculum for grades 6–12, integrating IoT, Python, 3D Modelling and Printing, Product Design and AI concepts.</li>
+                                            <li>Initiated and scaled "NexGen" – the Future Ready IT Club – in partnership with global tech leaders such as Microsoft GitHub, Amazon Web Services (AWS), Raspberry Pi Foundation, and Major League Hacking (MLH).</li>
+                                            <li>Trained 2000+ students across robotics, Python, AI/ML, and ethical hacking with a strong focus on hands-on learning.</li>
+                                            <li>Organized 10+ National and International Hackathons, coding marathons, and workshops, boosting students' real-world problem-solving skills.</li>
+                                            <li>Led 4 teams (12 students) to national-level selection in STEM Robo Innovation League 2024–25 in MedTech, Best Out of Waste, 3D Tech, and Space Technology.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Freelance Experience -->
+                        <div class="timeline-item" data-aos="fade-up" data-aos-delay="200">
+                            <div class="timeline-dot"></div>
+                            <div class="timeline-date">Nov 2021 - Present</div>
+                            <div class="timeline-content">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Freelance Software Developer & Cloud Consultant</h4>
+                                        <h5 class="card-subtitle mb-3">Upwork | Remote</h5>
+                                        <ul class="card-text">
+                                            <li>Delivered 50+ custom SaaS platforms, portfolio sites, and e-commerce applications using Django, HTML/CSS, JS, MySQL, and REST APIs.</li>
+                                            <li>Deployed full-stack applications with Gunicorn, Nginx, and Docker on AWS EC2, Google Cloud, and Hostinger VPS, ensuring secure and scalable setups.</li>
+                                            <li>Implemented automated backup systems, SSL certificates, and Netdata-based server monitoring for 24/7 availability.</li>
+                                            <li>Conducted code reviews, performance optimization, and SEO audits for web applications, increasing client traffic by up to 70%.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Intern Experience -->
+                        <div class="timeline-item" data-aos="fade-up" data-aos-delay="300">
+                            <div class="timeline-dot"></div>
+                            <div class="timeline-date">Sep 2022 - Nov 2022</div>
+                            <div class="timeline-content">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Python Developer Intern</h4>
+                                        <h5 class="card-subtitle mb-3">Inmakes Infotech Pvt Ltd | Kochi, Kerala</h5>
+                                        <ul class="card-text">
+                                            <li>Built responsive web apps using Django and REST APIs</li>
+                                            <li>Engaged in SaaS development and AI-powered modules in production</li>
+                                            <li>Gained hands-on experience in full-stack Python development and cloud integration</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education" class="section-padding">
+        <div class="container">
+            <div class="row justify-content-center mb-5">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-title">Education</h2>
+                    <div class="section-divider"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 mb-4" data-aos="fade-up">
+                    <div class="education-card">
+                        <div class="education-year">2024 - 2026</div>
+                        <h4>MBA in Business Analytics</h4>
+                        <h5>Amity University, Noida</h5>
+                        <p>Specialization: IT Strategy, Business Intelligence, Project Management, Business Analytics</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="education-card">
+                        <div class="education-year">2021 - 2023</div>
+                        <h4>Master of Computer Applications (MCA)</h4>
+                        <h5>APJ Abdul Kalam Technological University (KTU), Kerala</h5>
+                        <p>Focus: Software Engineering, Web Applications, Development, Management, AI/ML, SaaS</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="education-card">
+                        <div class="education-year">2018 - 2021</div>
+                        <h4>Bachelor of Computer Applications (BCA)</h4>
+                        <h5>Mahatma Gandhi University (MGU), Kottayam</h5>
+                        <p>Focus: Web Development, Android Programming, MySQL</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Achievements Section -->
+    <section id="achievements" class="section-padding bg-light">
+        <div class="container">
+            <div class="row justify-content-center mb-5">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-title">Achievements</h2>
+                    <div class="section-divider"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 mb-4" data-aos="fade-up">
+                    <div class="achievement-card">
+                        <div class="achievement-icon">
+                            <i class="fas fa-trophy"></i>
+                        </div>
+                        <div class="achievement-content">
+                            <h4>Rashtrapati Award | BS&G India | 2016</h4>
+                            <p>Awarded by: Hon. President of India Pranab Mukherjee</p>
+                            <p>Recognized for exceptional contributions to community service and leadership.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="achievement-card">
+                        <div class="achievement-icon">
+                            <i class="fas fa-medal"></i>
+                        </div>
+                        <div class="achievement-content">
+                            <h4>Best Scout Award (Rajapuraskar) | KSBSG Kerala | 2015</h4>
+                            <p>Awarded by: Governor of Kerala, Justice P. Sathasivam</p>
+                            <p>Outstanding performance in scouting activities and leadership.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="achievement-card">
+                        <div class="achievement-icon">
+                            <i class="fas fa-cloud"></i>
+                        </div>
+                        <div class="achievement-content">
+                            <h4>Virtual Experience Program | AWS | 2024</h4>
+                            <p>Designed and implemented scalable hosting architecture on AWS.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="achievement-card">
+                        <div class="achievement-icon">
+                            <i class="fas fa-file-alt"></i>
+                        </div>
+                        <div class="achievement-content">
+                            <h4>Research Paper Presentation | NCECA National Conference | 2024</h4>
+                            <p>Presented paper on "Automated Business Management System".</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section-padding">
+        <div class="container">
+            <div class="row justify-content-center mb-5">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-title">Technical Skills</h2>
+                    <div class="section-divider"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6" data-aos="fade-right">
+                    <div class="skills-category mb-4">
+                        <h4 class="mb-3">Languages</h4>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>Python</span>
+                                <span>90%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>JavaScript</span>
+                                <span>85%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>SQL</span>
+                                <span>80%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>HTML/CSS</span>
+                                <span>95%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="skills-category mb-4">
+                        <h4 class="mb-3">Frameworks</h4>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>Django</span>
+                                <span>92%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 92%" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>Bootstrap</span>
+                                <span>88%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 88%" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-6" data-aos="fade-left">
+                    <div class="skills-category mb-4">
+                        <h4 class="mb-3">Cloud</h4>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>AWS</span>
+                                <span>85%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>Azure</span>
+                                <span>75%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>GCP</span>
+                                <span>70%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="skills-category mb-4">
+                        <h4 class="mb-3">AI/ML</h4>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>TensorFlow</span>
+                                <span>80%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>PyTorch</span>
+                                <span>75%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="skill-item">
+                            <div class="d-flex justify-content-between mb-1">
+                                <span>Scikit-learn</span>
+                                <span>85%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Tech Stack Icons -->
+            <div class="row mt-5">
+                <div class="col-12">
+                    <h4 class="text-center mb-4">Tech Stack</h4>
+                    <div class="tech-stack" data-aos="fade-up">
+                        <div class="tech-icon"><i class="fab fa-python"></i></div>
+                        <div class="tech-icon"><i class="fab fa-js"></i></div>
+                        <div class="tech-icon"><i class="fab fa-html5"></i></div>
+                        <div class="tech-icon"><i class="fab fa-css3-alt"></i></div>
+                        <div class="tech-icon"><i class="fab fa-bootstrap"></i></div>
+                        <div class="tech-icon"><i class="fab fa-aws"></i></div>
+                        <div class="tech-icon"><i class="fab fa-microsoft"></i></div>
+                        <div class="tech-icon"><i class="fab fa-docker"></i></div>
+                        <div class="tech-icon"><i class="fab fa-github"></i></div>
+                        <div class="tech-icon"><i class="fab fa-raspberry-pi"></i></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Certifications Section -->
+    <section id="certifications" class="section-padding bg-light">
+        <div class="container">
+            <div class="row justify-content-center mb-5">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-title">Certifications</h2>
+                    <div class="section-divider"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="cert-container" data-aos="fade-up">
+                        <div class="cert-item">
+                            <div class="cert-icon"><i class="fas fa-certificate"></i></div>
+                            <div class="cert-content">
+                                <h5>STEMROBO Certified Educator Program (SCEP)</h5>
+                                <p>Stemrobo Pvt. Ltd. (2025)</p>
+                            </div>
+                        </div>
+                        <div class="cert-item">
+                            <div class="cert-icon"><i class="fas fa-certificate"></i></div>
+                            <div class="cert-content">
+                                <h5>OMP (Certification in prompt Engineering for Multimodel AI)</h5>
+                                <p>Govt. of Dubai (Apr 2025)</p>
+                            </div>
+                        </div>
+                        <div class="cert-item">
+                            <div class="cert-icon"><i class="fas fa-certificate"></i></div>
+                            <div class="cert-content">
+                                <h5>AWS Solutions Architecture Virtual Experience</h5>
+                                <p>AWS (Dec 2024)</p>
+                            </div>
+                        </div>
+                        <div class="cert-item">
+                            <div class="cert-icon"><i class="fas fa-certificate"></i></div>
+                            <div class="cert-content">
+                                <h5>GitHub Foundations Certification</h5>
+                                <p>GitHub (Dec 2024)</p>
+                            </div>
+                        </div>
+                        <div class="cert-item">
+                            <div class="cert-icon"><i class="fas fa-certificate"></i></div>
+                            <div class="cert-content">
+                                <h5>Certification in Drone Technology & Aerodynamics</h5>
+                                <p>Stemrobo Pvt. Ltd. (Aug 2025)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center mt-4">
+                        <a href="#" class="btn btn-outline-primary">View All Certifications</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section-padding">
+        <div class="container">
+            <div class="row justify-content-center mb-5">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-title">Get In Touch</h2>
+                    <div class="section-divider"></div>
+                    <p class="lead mb-5">Feel free to contact me for any work or suggestions</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 mb-4 mb-md-0" data-aos="fade-right">
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fas fa-envelope"></i>
+                            </div>
+                            <div class="contact-text">
+                                <h5>Email</h5>
+                                <p>allensphilip@gmail.com</p>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fas fa-phone"></i>
+                            </div>
+                            <div class="contact-text">
+                                <h5>Phone</h5>
+                                <p>+91 9745363171</p>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fas fa-map-marker-alt"></i>
+                            </div>
+                            <div class="contact-text">
+                                <h5>Location</h5>
+                                <p>Kerala, India</p>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fab fa-linkedin"></i>
+                            </div>
+                            <div class="contact-text">
+                                <h5>LinkedIn</h5>
+                                <p>linkedin.com/in/allensphilip</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="col-md-6" data-aos="fade-left">
+                    <div class="contact-form">
+                        <form id="contactForm">
+                            <div class="mb-3">
+                                <input type="text" class="form-control" id="name" placeholder="Your Name" required>
+                            </div>
+                            <div class="mb-3">
+                                <input type="email" class="form-control" id="email" placeholder="Your Email" required>
+                            </div>
+                            <div class="mb-3">
+                                <input type="text" class="form-control" id="subject" placeholder="Subject" required>
+                            </div>
+                            <div class="mb-3">
+                                <textarea class="form-control" id="message" rows="5" placeholder="Your Message" required></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary w-100">Send Message</button>
+                        </form>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="footer-logo mb-4">ASP<span class="text-primary">.</span></div>
+                    <div class="social-icons mb-4">
+                        <a href="https://linkedin.com/in/allensphilip" target="_blank" class="me-3"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://github.com/allensphilip" target="_blank" class="me-3"><i class="fab fa-github"></i></a>
+                        <a href="mailto:allensphilip@gmail.com" class="me-3"><i class="fas fa-envelope"></i></a>
+                        <a href="tel:+919745363171" class="me-3"><i class="fas fa-phone"></i></a>
+                    </div>
+                    <p>&copy; 2024 Allen S Philip. All Rights Reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <a href="#" class="back-to-top">
+        <i class="fas fa-arrow-up"></i>
+    </a>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- AOS Animation Library -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- Typed.js -->
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+    <script>
+    // Modern navbar active link on scroll
+    window.addEventListener('DOMContentLoaded', function() {
+      const sections = document.querySelectorAll('section[id]');
+      const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+      function activateNavLink() {
+        let scrollY = window.pageYOffset;
+        sections.forEach(section => {
+          const sectionTop = section.offsetTop - 80;
+          const sectionHeight = section.offsetHeight;
+          if (scrollY >= sectionTop && scrollY < sectionTop + sectionHeight) {
+            navLinks.forEach(link => link.classList.remove('active'));
+            const activeLink = document.querySelector('.navbar-nav .nav-link[href="#' + section.id + '"]');
+            if (activeLink) activeLink.classList.add('active');
+          }
+        });
+      }
+      window.addEventListener('scroll', activateNavLink);
+      activateNavLink();
+    });
+    </script>
+</body>
 </html>
